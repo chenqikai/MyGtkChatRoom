@@ -17,3 +17,4 @@
     sudo apt-get update
 ### 4.配置IDE环境变量
  待更新。。。
+     hahah
